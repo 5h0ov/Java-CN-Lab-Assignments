@@ -1,0 +1,3 @@
+yeah = Invalid expression format
+1 tan 1 = Invalid expression format
+1 tan() = Invalid expression format
